@@ -31,4 +31,4 @@ Temporary Items
 node_modules
 
 # App Specific
-dist
+dist/**/*
